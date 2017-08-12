@@ -1,3 +1,3 @@
 # Python
 
-Python Traning Files
+Python Training Files
